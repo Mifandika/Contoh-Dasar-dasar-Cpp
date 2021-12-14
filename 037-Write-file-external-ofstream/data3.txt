@@ -1,0 +1,3 @@
+menulis data baru pada data3
+ios::app adalah append
+operasi menulis file external dengan fstream

@@ -1,0 +1,10 @@
+ini merupakan data ifstream
+data dari data.txt
+
+data
+no nama
+1 jamet
+2 yameteh
+3 binjai
+4 yahayuk
+5 alok
